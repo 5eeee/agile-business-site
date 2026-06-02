@@ -1,7 +1,10 @@
 Agile Business — Website & Admin
 ================================
 
-Русскоязычная инструкция по запуску и эксплуатации проекта Agile Business (Node.js/Express + MySQL, PHP `api.php` для shared‑hosting).
+> **Полная техническая документация:** [docs/TECHNICAL.md](docs/TECHNICAL.md)  
+> **GitHub:** [github.com/5eeee/agile-business-site](https://github.com/5eeee/agile-business-site)
+
+Русскоязычная инструкция по запуску и эксплуатации проекта Agile Business (Node.js/Express + PostgreSQL).
 
 ## Быстрый старт (локальная разработка)
 

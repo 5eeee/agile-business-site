@@ -7,3 +7,6 @@ agile_backup2.sql
 *.log
 scripts/deploy.local.ps1
 .next/
+
+.cursor/
+.cursor
