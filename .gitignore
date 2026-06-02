@@ -10,3 +10,7 @@ scripts/deploy.local.ps1
 
 .cursor/
 .cursor
+*.docx
+*.zip
+__pycache__/
+*.pyc
