@@ -2,7 +2,7 @@ Agile Business — Website & Admin
 ================================
 
 > **Полная техническая документация:** [docs/TECHNICAL.md](docs/TECHNICAL.md)  
-> **GitHub:** [github.com/5eeee/agile-business-site](https://github.com/5eeee/agile-business-site)
+> **Прод:** https://agile-business-pro.com/ · **GitHub:** [github.com/5eeee/agile-business-site](https://github.com/5eeee/agile-business-site)
 
 Русскоязычная инструкция по запуску и эксплуатации проекта Agile Business (Node.js/Express + PostgreSQL).
 
